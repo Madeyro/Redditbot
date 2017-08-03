@@ -17,3 +17,12 @@ See also the list of [contributors](https://github.com/Madeyro/Redditbot/contrib
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## References
+
+[Voussoir's GitHub](https://github.com/voussoir/reddit)  
+[Build a reddit bot](http://pythonforengineers.com/build-a-reddit-bot-part-1/)  
+[Reddit API](https://www.reddit.com/dev/api)  
+[PRAW](https://praw.readthedocs.io/en/latest/)  
+[#1 Reddit thread about hosting](https://www.reddit.com/r/botwatch/comments/2261dv/bot_creators_do_any_of_you_host_your_bots_on/)  
+[#2 Reddit thread about hosting](https://www.reddit.com/r/botwatch/comments/4kzbep/where_to_host_this_reddit_bot/)
