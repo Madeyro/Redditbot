@@ -1,4 +1,4 @@
-<img src="https://cdn.worldvectorlogo.com/logos/reddit-1.svg" align=bottom style="width: 40%;"/>
+<img src="https://cdn.worldvectorlogo.com/logos/reddit-1.svg" align=bottom style="width: 25%;"/>
 
 # Reddit bot 
 
