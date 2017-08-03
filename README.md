@@ -12,7 +12,7 @@ The bot is scanning new posts on Reddit and linking them to /r/StickerBombing su
 
 * **Maros Kopec** - *Initial work* - [Madeyro](https://github.com/Madeyro)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Madeyro/Redditbot/contributors) who participated in this project.
 
 ## License
 
