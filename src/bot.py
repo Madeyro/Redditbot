@@ -16,13 +16,15 @@ The requirements for this file are:
     Either way, return the instance when finished.
 '''
 
+import os
 import praw
 
-USERAGENT = 'RBOT_AGENT'
-CLIENT_ID = 'RBOT_CLIENT'
-CLIENT_SECRET = 'RBOT_SECRET'
-USERNAME = 'RBOT_USER'
-PASSWORD = 'RBOT_PASS'
+
+USERAGENT = os.environ.get('RBOT_AGENT')
+CLIENT_ID = os.environ.get('RBOT_CLIENT')
+CLIENT_SECRET = os.environ.get('RBOT_SECRET')
+USERNAME = os.environ.get('RBOT_USER')
+PASSWORD = os.environ.get('RBOT_PASS')
 
 
 def login(r=None):
